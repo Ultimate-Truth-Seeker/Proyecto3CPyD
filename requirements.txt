@@ -1,0 +1,11 @@
+# Colab ya trae casi todo; esto es para reproducir fuera de Colab (requiere GPU NVIDIA + CUDA)
+tensorflow[and-cuda]>=2.18
+numpy>=2.0
+pandas>=2.2
+pillow>=11.0
+scikit-learn>=1.5
+matplotlib>=3.9
+psutil>=6.0
+numba>=0.60
+kagglehub>=1.0
+tabulate>=0.9
