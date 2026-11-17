@@ -1,0 +1,7 @@
+implementacion,backend,ms,correcto
+"NumPy (CPU, 1 hilo BLAS compartido)",CPU,181.55508400002418,True
+Numba naive,Numba,71.79421464999933,True
+Numba tiled (memoria compartida),Numba,72.28779395000089,True
+CUDA C naive (CuPy/NVRTC),CUDA C,20.832837150000216,True
+CUDA C tiled (CuPy/NVRTC),CUDA C,9.490185699999643,True
+cuBLAS (cupy matmul + ReLU),cuBLAS,1.1429277499999557,True
