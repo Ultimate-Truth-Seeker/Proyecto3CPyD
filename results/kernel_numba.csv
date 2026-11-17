@@ -1,0 +1,5 @@
+implementacion,ms
+Numba naive,
+Numba tiled (shared mem),
+tf.matmul (cuBLAS),2.7647840000099677
+NumPy (CPU),70.67568700040283
